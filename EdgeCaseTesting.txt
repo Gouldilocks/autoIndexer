@@ -1,0 +1,31 @@
+<4>
+yes no maybe if they want to be the best
+<5>
+[If only I were a sailor!](sadness) [I want](sad)
+<22>
+no [subClass wrap](class) yes maybe if they want to be the best
+<45>
+[If only I were a sailor!](happiness) no([no no])
+that is a yes yes [subClass wrap](class)
+<4>
+yes no maybe if they want to be the best
+<10>
+[subClass wrap](class)
+[this is edge for long phrase]
+k([this is edge for long phrase])
+welp([this is edge for long phrase])
+a([this is edge for long phrase])
+<24>
+[this is edge for long phrase]
+<25>
+[I bet this will wrap] [subClass wrap](class)
+<26>
+[I bet this will wrap] [subClass wrap](class)
+<27000>
+[I bet this will wrap] [subClass wrap](class)
+<99999>
+[I bet this will wrap] [subClass wrap](class)
+<999778>
+[I bet this will wrap] [subClass wrap](class)
+<2909849>
+[I bet this will wrap] [subClass wrap](class)

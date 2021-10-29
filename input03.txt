@@ -1,0 +1,17 @@
+<15>
+algorithm [binary tree] analysis heap
+<1>
+[binary search tree] analysis
+complexity algorithm [2-3 tree]
+<5>
+[b+ tree](treegroup) [Binary Tree](treegroup)
+<8>
+graph clique Tree
+<5>
+tree [full binary tree]
+[complete binary tree]
+<10>
+cousin(alabama) mama(mamagroup!.?)
+<11>
+yoMama(mamagroup!!) meMami(mamagroup..)
+<-1>
